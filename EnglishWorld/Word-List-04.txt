@@ -1,0 +1,69 @@
+portion : 一部分
+target  ：目标，靶子，瞄准
+portable : 手提式的 便携设备
+explanation : 解释
+decline  :下降
+illusion :错觉
+stripe   :条纹
+emphasize :强调，着重
+emotion   : 情感，感情
+emotional : 情绪的
+awful     : 破坏的，可怕的
+awkward   : 棘手的
+clue      : 线索
+collision :碰撞，冲突
+device    :设备
+devise    :发明
+inevitable :不可避免的
+naval      :海军的
+navigation :航行
+necessity  :必需品
+previous   :以前的
+provision  :规定，条款
+pursue     :追求，继续进行
+stale     :不新鲜的，陈腐的
+substitute : 代替
+deserve    ：应得，值得
+discrimination : 歧视
+professional : 职业的
+secure    : 安心的，保护
+security  : 安全，抵押品
+scratch    :抓，刮
+talent     : 才能，天资，人才
+insurance  : 保险
+insure : 投保，确保
+nevertheless  :然而
+neutral :中立
+spot ：斑点，认出
+spray :喷雾，喷撒
+medium : 中等的，媒介
+media : 媒体
+auxiliary :辅助的
+automatic :自动的
+compete ：竞争，比赛
+competent: 能胜任的的
+competition :竞争
+distribute :分发，散布
+disturb : 打扰，妨碍
+infer : 推论，推断
+integrate : 成为一体
+moist : 潮湿的
+moisture:潮湿
+promote : 促进，提升
+region  : 地区，范围
+stable : 稳定的
+sophisticated : 老于世故的
+splendid: 辉煌的
+cancel :取消，废除
+variable : 可变的，变量
+prospect :前景，前途
+prosperity : 兴旺，繁荣
+aspect ：方面，外表
+cope :处理，妥善
+core : 果心，核心
+maintain :维修，维持
+mainland : 大陆
+discipline : 纪律，学科
+domestic : 本国的
+constant : 恒定的，常数
+
